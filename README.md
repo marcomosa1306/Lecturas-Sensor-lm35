@@ -133,5 +133,5 @@ while True:
             body=f"La temperatura ha superado los 35°C. Temperatura actual: {temperature:.2f}°C"
         )
     
-    # Esperar 60 segundos antes de enviar el siguiente dato
-    time.sleep(60)
+    # Esperar 180 segundos antes de enviar el siguiente dato
+    time.sleep(180)
